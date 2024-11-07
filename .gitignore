@@ -81,3 +81,7 @@ sw.*
 
 # Webpack
 .webpack/
+
+# Docs
+/docs/
+/docs-src/
